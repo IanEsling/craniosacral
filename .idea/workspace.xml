@@ -71,25 +71,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="77" selection-start="354" selection-end="426" vertical-scroll-proportion="-7.107143">
+            <state line="20" column="56" selection-start="717" selection-end="717" vertical-scroll-proportion="-19.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="details.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="details.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="47" selection-start="474" selection-end="474" vertical-scroll-proportion="0.36273116">
+            <state line="4" column="18" selection-start="143" selection-end="143" vertical-scroll-proportion="-4.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="26" selection-start="453" selection-end="453" vertical-scroll-proportion="-3.107143">
+            <state line="4" column="18" selection-start="143" selection-end="143" vertical-scroll-proportion="0.16231884">
               <folding />
             </state>
           </provider>
@@ -98,7 +98,7 @@
       <file leaf-file-name="bio.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="12" selection-start="1383" selection-end="1383" vertical-scroll-proportion="-22.642857">
+            <state line="21" column="55" selection-start="815" selection-end="815" vertical-scroll-proportion="-10.0">
               <folding />
             </state>
           </provider>
@@ -124,10 +124,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Jane.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/bio.html" />
         <option value="$PROJECT_DIR$/details.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/bio.html" />
       </list>
     </option>
   </component>
@@ -292,7 +292,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1436" height="878" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -370,30 +370,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="77" selection-start="354" selection-end="426" vertical-scroll-proportion="-7.107143">
+        <state line="4" column="18" selection-start="143" selection-end="143" vertical-scroll-proportion="-4.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="26" selection-start="453" selection-end="453" vertical-scroll-proportion="-3.107143">
+        <state line="20" column="56" selection-start="717" selection-end="717" vertical-scroll-proportion="-19.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="12" selection-start="1383" selection-end="1383" vertical-scroll-proportion="-22.642857">
+        <state line="21" column="55" selection-start="815" selection-end="815" vertical-scroll-proportion="-10.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/details.html">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="47" selection-start="474" selection-end="474" vertical-scroll-proportion="0.36273116">
+        <state line="4" column="18" selection-start="143" selection-end="143" vertical-scroll-proportion="0.16231884">
           <folding />
         </state>
       </provider>
